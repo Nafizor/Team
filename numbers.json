@@ -1,0 +1,13 @@
+{
+  "queue": [
+    {
+      "number": "79001234567",
+      "user_id": "123456789",
+      "added_at": "2025-07-16T22:29:57.278955",
+      "reputation": 10
+    }
+  ],
+  "in_work": {},
+  "successful": {},
+  "blocked": {}
+}
